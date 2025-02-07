@@ -8,11 +8,11 @@ This project contains SQL queries for a **Library Management System**, including
 ## 🗄️ Database Schema
 The project includes the following tables:  
 
-### **1️⃣ Books**
-### **2️⃣ Members**
-### **3️⃣ Borrowing**
-### **4️⃣ Librarians **
-### **5️⃣ Reservations **
+1️⃣ Books
+2️⃣ Members
+3️⃣ Borrowing
+4️⃣ Librarians
+5️⃣ Reservations
 
 ---
 
